@@ -1,4 +1,4 @@
-baseURL = " https://mai1998523.github.io/my_launchx_blog/"
+baseURL = "https://mai1998523.github.io/my_launchx_blog/"
 languageCode = "en-us"
 title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"
